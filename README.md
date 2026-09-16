@@ -16,8 +16,7 @@ I turn ideas into working software — full-stack web apps, AI-powered systems, 
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00FF66?style=flat-square)](https://joe-godwin-portfolio.vercel.app/)
-
+[![Portfolio](https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00FF66?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=111111)](https://joe-godwin-portfolio.vercel.app/)
 </div>
 
 <br>
