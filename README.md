@@ -14,20 +14,19 @@ I turn ideas into working software — full-stack web apps, AI-powered systems, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-godwin-869858275/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joegodwin04)
 
-<br>
+<p>
+  <a href="https://joe-godwin-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00FF66?style=for-the-badge&logo=vercel&logoColor=00FF66&labelColor=111111" alt="My Portfolio">
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00FF66?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=111111)](https://joe-godwin-portfolio.vercel.app/)
 </div>
-
-<br>
 
 ## About Me
 
 I enjoy turning ideas into working software — from full-stack web applications to AI-powered and realtime systems. Most of what I know comes from building projects end to end: designing the data model, writing the API, building the UI, and actually deploying the thing.
 
 I'm currently focused on strengthening my backend skills with Java and Spring Boot, while sharpening my fundamentals in Data Structures & Algorithms and System Design.
-
-<br>
 
 ## What I Build
 
