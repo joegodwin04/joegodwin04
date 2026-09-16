@@ -11,6 +11,7 @@ I turn ideas into working software — full-stack web apps, AI-powered systems, 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:godwinje87@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-godwin-869858275/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joegodwin04)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00FF66?style=flat-square)](https://joe-godwin-portfolio.vercel.app/)
 
 </div>
 
